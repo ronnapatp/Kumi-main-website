@@ -1,8 +1,8 @@
 import Head from 'next/head'
 import Image from 'next/image'
 
-import Nav from '../components/en/nav'
-import Heroes from '../components/en/heroes'
+import Nav from '../components/en/homepage/nav'
+import Heroes from '../components/en/homepage/heroes'
 
 export default function Home() {
   return (
