@@ -22,7 +22,10 @@ export default function Reviwe() {
             </g>
             </svg>
             </div>
+            <br />
             <p>Hello bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p>
+            <br />
+            <h4>Danny real</h4>
           </div>
           <div>
           <div>
@@ -33,7 +36,10 @@ export default function Reviwe() {
             </g>
             </svg>
             </div>
+            <br />
             <p>Hello bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p>
+            <br />
+            <h4>Danny real</h4>
           </div>
           <div>
           <div>
@@ -44,10 +50,14 @@ export default function Reviwe() {
             </g>
             </svg>
             </div>
+            <br />
             <p>Hello bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p>
+            <br />
+            <h4>Danny real</h4>
           </div>
         </div>
     </div>
+    <br /><br />
     </div>
   );
 }
