@@ -5,7 +5,7 @@ import Image from 'next/image';
 
 export default function Product() {
   return (
-    <div className="container">
+    <div className="container" id="product">
         <br /><br />
 <div className="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3 center">
         <div className="col">
