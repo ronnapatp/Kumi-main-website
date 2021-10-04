@@ -3,7 +3,7 @@ import Image from 'next/image';
 
 export default function Heroes() {
     return(
-    <div>
+    <div className="container">
         <style jsx>{`
         .max-height-30{
             max-height: 30vh;
