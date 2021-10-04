@@ -6,6 +6,7 @@ import Heroes from '../components/en/homepage/heroes'
 import Product from '../components/en/homepage/product'
 import Review from '../components/en/homepage/review'
 import Faq from '../components/en/homepage/faq'
+import Aboutus from '../components/en/homepage/aboutus'
 
 export default function Home() {
   return (
@@ -27,6 +28,8 @@ export default function Home() {
       <Review />
 
       <Faq />
+
+      <Aboutus />
 
 
     </div>

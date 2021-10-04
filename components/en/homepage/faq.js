@@ -36,6 +36,7 @@ export default function Faq() {
                 <p>Kumi is bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p>
             </div>
       </div>
+      <br /><br />
   </div>
   );
 }
