@@ -4,6 +4,7 @@ import Image from 'next/image'
 import Nav from '../components/en/homepage/nav'
 import Heroes from '../components/en/homepage/heroes'
 import Product from '../components/en/homepage/product'
+import Review from '../components/en/homepage/review'
 
 export default function Home() {
   return (
@@ -21,6 +22,8 @@ export default function Home() {
       <br /><br />
 
       <Product />
+
+      <Review />
 
 
     </div>
