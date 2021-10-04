@@ -5,6 +5,7 @@ import Nav from '../components/en/homepage/nav'
 import Heroes from '../components/en/homepage/heroes'
 import Product from '../components/en/homepage/product'
 import Review from '../components/en/homepage/review'
+import Faq from '../components/en/homepage/faq'
 
 export default function Home() {
   return (
@@ -24,6 +25,8 @@ export default function Home() {
       <Product />
 
       <Review />
+
+      <Faq />
 
 
     </div>
