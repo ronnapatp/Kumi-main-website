@@ -8,14 +8,21 @@ export default function Heroes() {
         .max-height-30{
             max-height: 30vh;
         }
+        .pink{
+          background-color: #FB7497;
+        }
+        .border-pink{
+          
+          border-color:#F04178;
+        }
         `}</style>
   <div className="px-4 pt-5 my-5 text-center border-bottom">
     <h1 className="display-4 fw-bold">Kumi The Chubby Bear</h1>
     <div className="col-lg-6 mx-auto">
       <p className="lead mb-4">Kumi balm reduces itching from insect bites. Reduces swelling, redness and black marks Stop itching immediately after applying.</p>
       <div className="d-grid gap-2 d-sm-flex justify-content-sm-center mb-5">
-        <button type="button" className="btn btn-primary btn-lg px-4 me-sm-3">Shop now!</button>
-        <button type="button" className="btn btn-outline-secondary btn-lg px-4">Learn more</button>
+        <button type="button" className="btn pink btn-lg px-4 me-sm-3 btn-light">Shop now!</button>
+        <button type="button" className="btn border-pink btn-light btn-lg px-4">Learn more</button>
       </div>
     </div>
     <div className="overflow-hidden max-height-30">
