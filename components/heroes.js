@@ -26,8 +26,8 @@ export default function Heroes() {
       </div>
     </div>
     <div className="overflow-hidden max-height-30">
-      <div className="container px-5">
-        <span className="img-fluid border rounded-3 shadow-lg mb-4"><Image src="/kumi profile logo.png" alt="Example image" width={700} height={500} /></span>
+      <div className="container px-4">
+        <span className="img-fluid border rounded-3 shadow-lg mb-4"><Image src="/kumi profile logo.png" alt="Example image" width={900} height={500} /></span>
       </div>
     </div>
   </div>
