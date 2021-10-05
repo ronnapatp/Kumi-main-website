@@ -4,11 +4,12 @@ import Head from 'next/head'
 import Nav from '../../components/en/products/nav'
 import Heroes from '../../components/en/products/heroes'
 import Feature from '../../components/en/products/feature'
+import List from '../../components/en/products/list'
 
 
 export default function Home() {
   return (
-    <div>
+    <div className="container">
       <Head>
         <title>Products | Kumi</title>
         <link rel="icon" href="/favicon.ico" />
@@ -25,6 +26,9 @@ export default function Home() {
       <Heroes />
 
       <Feature />
+
+
+      <List />
 
 
 
