@@ -2,6 +2,7 @@ import Head from 'next/head'
 
 
 import Nav from '../components/en/products/nav'
+import Heroes from '../components/en/products/heroes'
 
 
 export default function Home() {
@@ -19,6 +20,8 @@ export default function Home() {
       </Head>
 
       <Nav />
+
+      <Heroes />
 
 
 
