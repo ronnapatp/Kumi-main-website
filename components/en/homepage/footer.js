@@ -69,7 +69,7 @@ export default function Footer() {
           <div className="col-6 col-md">
             <h5>Review</h5>
             <ul className="list-unstyled text-small">
-              <li><Link href="/"><a className="text-muted text-decoration-none">Write your review</a></Link></li>
+              <li><Link href="https://www.facebook.com/Kumithechubbybear/reviews"><a target="_blank" className="text-muted text-decoration-none">Write your review</a></Link></li>
               <li><Link href="/"><a className="text-muted text-decoration-none">View all review</a></Link></li>
             </ul>
             <h5>Promotion</h5>

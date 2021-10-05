@@ -13,10 +13,10 @@ export default function Nav() {
 
       <ul className="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0">
         <li><Link href="/"><a className="nav-link px-2 link-dark">Home</a></Link></li>
-        <li><Link href="/products"><a className="nav-link px-2 link-secondary">Products</a></Link></li>
-        <li><Link href="/about"><a className="nav-link px-2 link-dark">About</a></Link></li>
-        <li><Link href="/blog"><a className="nav-link px-2 link-dark">Blog</a></Link></li>
-        <li><Link href="/contact"><a className="nav-link px-2 link-dark">Contact</a></Link></li>
+        <li><Link href="/en/products"><a className="nav-link px-2 link-secondary">Products</a></Link></li>
+        <li><Link href="/en/about"><a className="nav-link px-2 link-dark">About</a></Link></li>
+        <li><Link href="/en/blog"><a className="nav-link px-2 link-dark">Blog</a></Link></li>
+        <li><Link href="/en/contact"><a className="nav-link px-2 link-dark">Contact</a></Link></li>
       </ul>
 
       <div className="col-md-3 text-end">

@@ -1,8 +1,9 @@
 import Head from 'next/head'
 
 
-import Nav from '../components/en/products/nav'
-import Heroes from '../components/en/products/heroes'
+import Nav from '../../components/en/products/nav'
+import Heroes from '../../components/en/products/heroes'
+import Feature from '../../components/en/products/feature'
 
 
 export default function Home() {
@@ -22,6 +23,8 @@ export default function Home() {
       <Nav />
 
       <Heroes />
+
+      <Feature />
 
 
 
