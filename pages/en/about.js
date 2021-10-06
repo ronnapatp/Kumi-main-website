@@ -2,6 +2,7 @@ import Head from 'next/head'
 
 
 import Nav from '../../components/en/about/nav'
+import About from '../../components/en/about/about'
 
 
 
@@ -9,7 +10,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Products | Kumi</title>
+        <title>About | Kumi</title>
         <link rel="icon" href="/favicon.ico" />
         <meta property="og:url" content="https://kumithebear.vercel.app/" />
         <meta property="og:type" content="website" />
@@ -20,6 +21,8 @@ export default function Home() {
       </Head>
 
       <Nav />
+
+      <About />
 
 
 
