@@ -17,6 +17,7 @@ export default function Nav() {
         <li><Link href="/en/about"><a className="nav-link px-2 link-dark">About</a></Link></li>
         <li><Link href="/en/blog"><a className="nav-link px-2 link-dark">Blog</a></Link></li>
         <li><Link href="/en/contact"><a className="nav-link px-2 link-dark">Contact</a></Link></li>
+        <li><Link href="/en/shop"><a className="nav-link px-2 link-dark">Shop</a></Link></li>
       </ul>
 
       <div className="col-md-3 text-end">
