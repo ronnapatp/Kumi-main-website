@@ -24,9 +24,10 @@ function setCookie(cname,cvalue,exdays) {
   function checkCookie() {
     let user = getCookie("username");
     if (user != "") {
-      alert("Welcome again " + user);
+      alert("Welcome to our website again " + user);
     } else {
-       user = prompt("Please enter your name:","");
+       user = prompt("Please enter your real name:","");
+       alert("Thanks for let's us know your name! You can read privacy and policy at privacy page")
        if (user != "" && user != null) {
          setCookie("username", user, 30);
        }
