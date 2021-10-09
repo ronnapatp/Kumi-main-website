@@ -2,6 +2,7 @@ import Head from 'next/head'
 
 
 import Nav from '../../components/en/shop/nav'
+import Product from '../../components/en/shop/product'
 
 
 
@@ -20,6 +21,8 @@ export default function Home() {
       </Head>
 
       <Nav />
+
+      <Product />
 
 
 
