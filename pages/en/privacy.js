@@ -3,6 +3,7 @@ import Head from 'next/head'
 
 import Nav from '../../components/en/privacy/nav'
 import Header from '../../components/en/privacy/head'
+import Privacy from '../../components/en/privacy/privacy'
 
 
 
@@ -23,6 +24,8 @@ export default function Home() {
     <Nav />
 
     <Header />
+
+    <Privacy />
       
 
 
