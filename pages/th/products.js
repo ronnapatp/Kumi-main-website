@@ -1,18 +1,18 @@
 import Head from 'next/head'
 
-import Nav from '../components/th/homepage/nav'
-import Heroes from '../components/th/homepage/heroes'
-import Product from '../components/th/homepage/product'
-import Review from '../components/th/homepage/review'
-import Faq from '../components/th/homepage/faq'
-import Aboutus from '../components/th/homepage/aboutus'
-import Footer from '../components/th/footer'
+
+import Nav from '../../components/en/products/nav'
+import Heroes from '../../components/en/products/heroes'
+import Feature from '../../components/en/products/feature'
+import List from '../../components/en/products/list'
+import Footer from '../../components/en/footer'
+
 
 export default function Home() {
   return (
-    <div>
+    <div className="container">
       <Head>
-        <title>HOME | Kumi</title>
+        <title>Products | Kumi</title>
         <link rel="icon" href="/favicon.ico" />
         <meta property="og:url" content="https://kumithebear.vercel.app/" />
         <meta property="og:type" content="website" />
@@ -26,17 +26,13 @@ export default function Home() {
 
       <Heroes />
 
-      <br /><br />
+      <Feature />
 
-      <Product />
 
-      <Review />
-
-      <Faq />
-
-      <Aboutus />
+      <List />
 
       <Footer />
+
 
 
     </div>
