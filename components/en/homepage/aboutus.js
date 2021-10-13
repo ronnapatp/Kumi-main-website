@@ -11,7 +11,7 @@ export default function Faq() {
         <div className="col-md-6 px-0">
             <h1 className="display-4 fst-italic">About us</h1>
             <p className="lead my-3">The Kumi brand was founded and launched the first product in August 2019 through collaboration. between pediatric allergists and chemists who want to develop natural, gentle mosquito repellent products...</p>
-            <Link href="#"><a>Read more</a></Link>
+            <Link href="/en/about"><a className="text-decoration-none text-dark">Read more &rarr;</a></Link>
         </div>
     </div>
   </div>
