@@ -1,12 +1,12 @@
 import Head from 'next/head'
 
-import Nav from '../components/th/homepage/nav'
-import Heroes from '../components/th/homepage/heroes'
-import Product from '../components/th/homepage/product'
-import Review from '../components/th/homepage/review'
-import Faq from '../components/th/homepage/faq'
-import Aboutus from '../components/th/homepage/aboutus'
-import Footer from '../components/th/footer'
+import Nav from '../../components/th/homepage/nav'
+import Heroes from '../../components/th/homepage/heroes'
+import Product from '../../components/th/homepage/product'
+import Review from '../../components/th/homepage/review'
+import Faq from '../../components/th/homepage/faq'
+import Aboutus from '../../components/th/homepage/aboutus'
+import Footer from '../../components/th/footer'
 
 export default function Home() {
   return (
