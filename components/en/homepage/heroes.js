@@ -23,7 +23,7 @@ export default function Heroes() {
     <div className="col-lg-6 mx-auto">
       <p className="lead mb-4">Kumi balm reduces itching from insect bites. Reduces swelling, redness and black marks Stop itching immediately after applying.</p>
       <div className="d-grid gap-2 d-sm-flex justify-content-sm-center mb-5">
-        <button type="button" className="btn pink btn-lg px-4 me-sm-3 btn-light">Shop now!</button>
+        <Link href="/en/shop"><button type="button" className="btn pink btn-lg px-4 me-sm-3 btn-light">Shop now!</button></Link>
         <Link href="#product"><button type="button" className="btn border-pink btn-light btn-lg px-4">Learn more</button></Link>
       </div>
     </div>
