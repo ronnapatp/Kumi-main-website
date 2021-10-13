@@ -1,10 +1,6 @@
 [![](https://i.imgur.com/kDjrHaG.png)](https://kumithechubbybear.netlify.app/)
 <br />
 
-
-
-<br />
-
 # About
 Kumi website is a official website of [Kumi the chubby bear](https://www.facebook.com/KumiTheChubbyBear/). Website show our product, kumi history, How to contact us.
 
