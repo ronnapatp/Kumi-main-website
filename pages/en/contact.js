@@ -3,6 +3,8 @@ import Head from 'next/head'
 
 import Nav from '../../components/en/contact/nav'
 import Contact from '../../components/en/contact/contact'
+import Footer from '../../components/en/footer'
+
 
 
 
@@ -25,7 +27,7 @@ export default function Home() {
       <Contact />
 
       
-
+      <Footer />
 
 
 

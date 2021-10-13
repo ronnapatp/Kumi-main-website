@@ -4,6 +4,8 @@ import Head from 'next/head'
 import Nav from '../../components/en/terms/nav'
 import Header from '../../components/en/terms/head'
 import Terms from '../../components/en/terms/terms'
+import Footer from '../../components/en/footer'
+
 
 
 
@@ -28,7 +30,7 @@ export default function Home() {
     <Terms />
       
 
-
+    <Footer />
 
 
     </div>

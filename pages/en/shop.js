@@ -3,6 +3,7 @@ import Head from 'next/head'
 
 import Nav from '../../components/en/shop/nav'
 import Product from '../../components/en/shop/product'
+import Footer from '../../components/en/footer'
 
 
 
@@ -24,7 +25,7 @@ export default function Home() {
 
       <Product />
 
-
+      <Footer />
 
 
 

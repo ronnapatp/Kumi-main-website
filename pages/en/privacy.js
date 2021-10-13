@@ -4,6 +4,8 @@ import Head from 'next/head'
 import Nav from '../../components/en/privacy/nav'
 import Header from '../../components/en/privacy/head'
 import Privacy from '../../components/en/privacy/privacy'
+import Footer from '../../components/en/footer'
+
 
 
 
@@ -28,7 +30,7 @@ export default function Home() {
     <Privacy />
       
 
-
+    <Footer />
 
 
     </div>

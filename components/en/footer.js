@@ -38,11 +38,12 @@ export default function Footer() {
             <h5>Pages</h5>
             <ul className="list-unstyled text-small">
               <li><Link href="/"><a className="text-muted text-decoration-none">Home</a></Link></li>
-              <li><Link href="/"><a className="text-muted text-decoration-none">Products</a></Link></li>
-              <li><Link href="/"><a className="text-muted text-decoration-none">About</a></Link></li>
-              <li><Link href="/"><a className="text-muted text-decoration-none">Blog</a></Link></li>
-              <li><Link href="/"><a className="text-muted text-decoration-none">Contact</a></Link></li>
-              <li><Link href="/"><a className="text-muted text-decoration-none">FAQ</a></Link></li>
+              <li><Link href="/en/product"><a className="text-muted text-decoration-none">Products</a></Link></li>
+              <li><Link href="/en/shop"><a className="text-muted text-decoration-none">Shop</a></Link></li>
+              <li><Link href="/en/about"><a className="text-muted text-decoration-none">About</a></Link></li>
+              <li><Link href="/en/blog"><a className="text-muted text-decoration-none">Blog</a></Link></li>
+              <li><Link href="/en/contact"><a className="text-muted text-decoration-none">Contact</a></Link></li>
+              <li><Link href="/en/faq"><a className="text-muted text-decoration-none">FAQ</a></Link></li>
             </ul>
           </div>
           <div className="col-6 col-md">
@@ -54,16 +55,16 @@ export default function Footer() {
             <h5>Support us</h5>
             <ul className="list-unstyled text-small">
               <li><Link href="/"><a className="text-muted text-decoration-none">Become a partner</a></Link></li>
-              <li><Link href="/"><a className="text-muted text-decoration-none">Buy kumi product</a></Link></li>
+              <li><Link href="/en/shop"><a className="text-muted text-decoration-none">Buy kumi product</a></Link></li>
             </ul>
           </div>
           <div className="col-6 col-md">
             <h5>Other pages</h5>
             <ul className="list-unstyled text-small">
-              <li><Link href="/"><a className="text-muted text-decoration-none">Help</a></Link></li>
-              <li><Link href="/"><a className="text-muted text-decoration-none">Contact</a></Link></li>
-              <li><Link href="/"><a className="text-muted text-decoration-none">Privacy</a></Link></li>
-              <li><Link href="/"><a className="text-muted text-decoration-none">Terms</a></Link></li>
+              <li><Link href="/en/help"><a className="text-muted text-decoration-none">Help</a></Link></li>
+              <li><Link href="/en/contact"><a className="text-muted text-decoration-none">Contact</a></Link></li>
+              <li><Link href="/en/privacy"><a className="text-muted text-decoration-none">Privacy</a></Link></li>
+              <li><Link href="/en/terms"><a className="text-muted text-decoration-none">Terms</a></Link></li>
             </ul>
           </div>
           <div className="col-6 col-md">

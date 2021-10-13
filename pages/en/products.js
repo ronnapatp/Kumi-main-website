@@ -5,6 +5,7 @@ import Nav from '../../components/en/products/nav'
 import Heroes from '../../components/en/products/heroes'
 import Feature from '../../components/en/products/feature'
 import List from '../../components/en/products/list'
+import Footer from '../../components/en/footer'
 
 
 export default function Home() {
@@ -29,6 +30,8 @@ export default function Home() {
 
 
       <List />
+
+      <Footer />
 
 
 

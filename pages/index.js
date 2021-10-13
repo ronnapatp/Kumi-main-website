@@ -6,7 +6,7 @@ import Product from '../components/en/homepage/product'
 import Review from '../components/en/homepage/review'
 import Faq from '../components/en/homepage/faq'
 import Aboutus from '../components/en/homepage/aboutus'
-import Footer from '../components/en/homepage/footer'
+import Footer from '../components/en/footer'
 
 export default function Home() {
   return (

@@ -4,6 +4,10 @@ import Head from 'next/head'
 import Nav from '../../components/en/faq/nav'
 
 
+import Footer from '../../components/en/footer'
+
+
+
 
 export default function Home() {
   return (
@@ -22,7 +26,7 @@ export default function Home() {
     <Nav />
       
 
-
+    <Footer />
 
 
     </div>
