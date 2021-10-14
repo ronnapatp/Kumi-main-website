@@ -13,8 +13,8 @@ export default function Product() {
             <Image src="/product/rice/kumirice1.jpeg" alt="product" width={350} height={225}/>
           </div>
           <div className="center">
-            <h3>Kumi rice</h3>
-            <p>150 baht</p> 
+            <h3>คุมิไรซ์</h3>
+            <p>150 บาท</p> 
           </div>
         </div>
         <div className="col">
@@ -22,8 +22,8 @@ export default function Product() {
             <Image src="/product/spray/kumispray1.jpeg" alt="product" width={330} height={225}/>
           </div>
           <div className="center">
-            <h3>Kumi rice</h3>
-            <p>150 baht</p> 
+            <h3>คุมิไรซ์</h3>
+            <p>150 บาท</p> 
           </div>
         </div>
         <div className="col">
@@ -31,8 +31,8 @@ export default function Product() {
             <Image src="/product/sticker/Kumisticker1.jpeg" alt="product" width={350} height={225}/>
           </div>
           <div className="center">
-            <h3>Kumi rice</h3>
-            <p>150 baht</p> 
+            <h3>คุมิไรซ์</h3>
+            <p>150 บาท</p> 
           </div>
         </div>
         </div>
