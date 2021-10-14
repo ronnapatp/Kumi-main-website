@@ -9,8 +9,8 @@ export default function Reviwe() {
     <div className="container ">
         <div className="center">
             <br /><br /><br />
-            <h1>Reviwe</h1>
-            <Link href="https://www.facebook.com/Kumithechubbybear/reviews"><a target="_blank" className="text-decoration-none text-dark">Write your review &rarr;</a></Link>
+            <h1>รีวิวจากลูกค้า</h1>
+            <Link href="https://www.facebook.com/Kumithechubbybear/reviews"><a target="_blank" className="text-decoration-none text-dark">เขียนรีวิว &rarr;</a></Link>
         </div> <br />
         <div className="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
           <div>
@@ -23,9 +23,9 @@ export default function Reviwe() {
             </svg>
             </div>
             <br />
-            <p>Hello bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p>
+            <p>คุมิดีมาก</p>
             <br />
-            <h4>Danny real</h4>
+            <h4>แดนนี่</h4>
           </div>
           <div>
           <div>
@@ -37,9 +37,9 @@ export default function Reviwe() {
             </svg>
             </div>
             <br />
-            <p>Hello bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p>
+            <p>คุมิดีมาก</p>
             <br />
-            <h4>Danny real</h4>
+            <h4>แดนนี่</h4>
           </div>
           <div>
           <div>
@@ -51,9 +51,9 @@ export default function Reviwe() {
             </svg>
             </div>
             <br />
-            <p>Hello bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p>
+            <p>คุมิดีมาก</p>
             <br />
-            <h4>Danny real</h4>
+            <h4>แดนนี่</h4>
           </div>
         </div>
     </div>
