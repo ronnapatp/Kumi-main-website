@@ -13,11 +13,11 @@ export default function Nav() {
 
       <ul className="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0">
         <li><Link href="/"><a className="nav-link px-2 link-secondary">หน้าหลัก</a></Link></li>
-        <li><Link href="/en/products"><a className="nav-link px-2 link-dark">สินค้า</a></Link></li>
-        <li><Link href="/en/about"><a className="nav-link px-2 link-dark">เกี่ยวกับเรา</a></Link></li>
-        <li><Link href="/en/blog"><a className="nav-link px-2 link-dark">บทความ</a></Link></li>
-        <li><Link href="/en/contact"><a className="nav-link px-2 link-dark">ติดต่อเรา</a></Link></li>
-        <li><Link href="/en/shop"><a className="nav-link px-2 link-dark">ร้านค้า</a></Link></li>
+        <li><Link href="/th/products"><a className="nav-link px-2 link-dark">สินค้า</a></Link></li>
+        <li><Link href="/th/about"><a className="nav-link px-2 link-dark">เกี่ยวกับเรา</a></Link></li>
+        <li><Link href="/th/blog"><a className="nav-link px-2 link-dark">บทความ</a></Link></li>
+        <li><Link href="/th/contact"><a className="nav-link px-2 link-dark">ติดต่อเรา</a></Link></li>
+        <li><Link href="/th/shop"><a className="nav-link px-2 link-dark">ร้านค้า</a></Link></li>
       </ul>
 
       <div className="col-md-3 text-end">
