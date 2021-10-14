@@ -9,9 +9,9 @@ export default function Faq() {
     <span className="float-end"><Image src="/kumiprofile.jpg" alt="unknow" width={100} height={100} /></span>
 
         <div className="col-md-6 px-0">
-            <h1 className="display-4 fst-italic">About us</h1>
-            <p className="lead my-3">The Kumi brand was founded and launched the first product in August 2019 through collaboration. between pediatric allergists and chemists who want to develop natural, gentle mosquito repellent products...</p>
-            <Link href="/en/about"><a className="text-decoration-none text-dark">Read more &rarr;</a></Link>
+            <h1 className="display-4 fst-italic">เกี่ยวกับเรา</h1>
+            <p className="lead my-3">แบรนด์ Kumi ก่อตั้งและเปิดตัวผลิตภัณฑ์ครั้งแรกเมื่อเดือนสิงหาคม 2562 ด้วยความร่วมมือ ระหว่างกุมารแพทย์โรคภูมิแพ้ และนักเคมีที่ต้องการพัฒนาผลิตภัณฑ์กันยุงที่มาจากธรรมชาติ อ่อนโยน...</p>
+            <Link href="/th/about"><a className="text-decoration-none text-dark">อ่านต่อ &rarr;</a></Link>
         </div>
     </div>
   </div>

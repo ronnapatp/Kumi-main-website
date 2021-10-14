@@ -35,47 +35,47 @@ export default function Footer() {
                 </Link>
           </div>
           <div className="col-6 col-md">
-            <h5>Pages</h5>
+            <h5>หน้าต่างๆ</h5>
             <ul className="list-unstyled text-small">
-              <li><Link href="/"><a className="text-muted text-decoration-none">Home</a></Link></li>
-              <li><Link href="/en/product"><a className="text-muted text-decoration-none">Products</a></Link></li>
-              <li><Link href="/en/shop"><a className="text-muted text-decoration-none">Shop</a></Link></li>
-              <li><Link href="/en/about"><a className="text-muted text-decoration-none">About</a></Link></li>
-              <li><Link href="/en/blog"><a className="text-muted text-decoration-none">Blog</a></Link></li>
-              <li><Link href="/en/contact"><a className="text-muted text-decoration-none">Contact</a></Link></li>
-              <li><Link href="/en/faq"><a className="text-muted text-decoration-none">FAQ</a></Link></li>
+              <li><Link href="/"><a className="text-muted text-decoration-none">หน้าหลัก</a></Link></li>
+              <li><Link href="/th/product"><a className="text-muted text-decoration-none">สินค้า</a></Link></li>
+              <li><Link href="/th/shop"><a className="text-muted text-decoration-none">ร้านค้า</a></Link></li>
+              <li><Link href="/th/about"><a className="text-muted text-decoration-none">เกี่ยวกับเรา</a></Link></li>
+              <li><Link href="/th/blog"><a className="text-muted text-decoration-none">บทความ</a></Link></li>
+              <li><Link href="/th/contact"><a className="text-muted text-decoration-none">ติดต่อเรา</a></Link></li>
+              <li><Link href="/th/faq"><a className="text-muted text-decoration-none">คำถามที่พบบ่อย</a></Link></li>
             </ul>
           </div>
           <div className="col-6 col-md">
-            <h5>About Kumi</h5>
+            <h5>เกี่ยวกับคุมิ</h5>
             <ul className="list-unstyled text-small">
-              <li><Link href="/"><a className="text-muted text-decoration-none">What is kumi?</a></Link></li>
-              <li><Link href="/"><a className="text-muted text-decoration-none">History of Kumi</a></Link></li>
+              <li><Link href="/"><a className="text-muted text-decoration-none">อะไรคือคุมิ ?</a></Link></li>
+              <li><Link href="/"><a className="text-muted text-decoration-none">ประวัติของคุมิ</a></Link></li>
             </ul>
-            <h5>Support us</h5>
+            <h5>สนับสนุนเรา</h5>
             <ul className="list-unstyled text-small">
-              <li><Link href="/"><a className="text-muted text-decoration-none">Become a partner</a></Link></li>
-              <li><Link href="/en/shop"><a className="text-muted text-decoration-none">Buy kumi product</a></Link></li>
-            </ul>
-          </div>
-          <div className="col-6 col-md">
-            <h5>Other pages</h5>
-            <ul className="list-unstyled text-small">
-              <li><Link href="/en/help"><a className="text-muted text-decoration-none">Help</a></Link></li>
-              <li><Link href="/en/contact"><a className="text-muted text-decoration-none">Contact</a></Link></li>
-              <li><Link href="/en/privacy"><a className="text-muted text-decoration-none">Privacy</a></Link></li>
-              <li><Link href="/en/terms"><a className="text-muted text-decoration-none">Terms</a></Link></li>
+              <li><Link href="/"><a className="text-muted text-decoration-none">เป็นพาร์ทเนอร์กับเรา</a></Link></li>
+              <li><Link href="/th/shop"><a className="text-muted text-decoration-none">ซื้อสินค้า</a></Link></li>
             </ul>
           </div>
           <div className="col-6 col-md">
-            <h5>Review</h5>
+            <h5>หน้าอื่นๆ</h5>
             <ul className="list-unstyled text-small">
-              <li><Link href="https://www.facebook.com/Kumithechubbybear/reviews"><a target="_blank" className="text-muted text-decoration-none">Write your review</a></Link></li>
-              <li><Link href="/"><a className="text-muted text-decoration-none">View all review</a></Link></li>
+              <li><Link href="/th/help"><a className="text-muted text-decoration-none">ศูนย์ช่วยเหลือ</a></Link></li>
+              <li><Link href="/th/contact"><a className="text-muted text-decoration-none">ติดต่อเรา</a></Link></li>
+              <li><Link href="/th/privacy"><a className="text-muted text-decoration-none">ข้อมูลความปลอดภัย</a></Link></li>
+              <li><Link href="/th/terms"><a className="text-muted text-decoration-none">นโยบายในการให้บริการ</a></Link></li>
             </ul>
-            <h5>Promotion</h5>
+          </div>
+          <div className="col-6 col-md">
+            <h5>รีวิวจากลูกค้า</h5>
             <ul className="list-unstyled text-small">
-              <li><Link href="/"><a className="text-muted text-decoration-none">View all promotion</a></Link></li>
+              <li><Link href="https://www.facebook.com/Kumithechubbybear/reviews"><a target="_blank" className="text-muted text-decoration-none">เขียนรีวิว</a></Link></li>
+              <li><Link href="/"><a className="text-muted text-decoration-none">ดูรีวิวทั้งหมด</a></Link></li>
+            </ul>
+            <h5>โปรโมชั้น</h5>
+            <ul className="list-unstyled text-small">
+              <li><Link href="/"><a className="text-muted text-decoration-none">ดูโปรโมชั้นทั้งหมด</a></Link></li>
             </ul>
           </div>
         </div>
