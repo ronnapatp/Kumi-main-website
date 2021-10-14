@@ -1,9 +1,9 @@
 import Head from 'next/head'
 
 
-import Nav from '../../components/en/about/nav'
-import About from '../../components/en/about/about'
-import Footer from '../../components/en/footer'
+import Nav from '../../components/th/about/nav'
+import About from '../../components/th/about/about'
+import Footer from '../../components/th/footer'
 
 
 
