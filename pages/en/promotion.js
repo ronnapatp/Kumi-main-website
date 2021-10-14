@@ -2,8 +2,7 @@ import Head from 'next/head'
 
 
 import Nav from '../../components/en/promotion/nav'
-
-
+import Heroes from '../../components/en/promotion/heroes'
 import Footer from '../../components/en/footer'
 
 
@@ -25,6 +24,8 @@ export default function Home() {
 
     <Nav />
       
+
+    <Heroes />
 
     <Footer />
 
