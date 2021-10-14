@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>About | Kumi</title>
+        <title>เกี่ยวกับเรา | คุมิ</title>
         <link rel="icon" href="/favicon.ico" />
         <meta property="og:url" content="https://kumithebear.vercel.app/" />
         <meta property="og:type" content="website" />
