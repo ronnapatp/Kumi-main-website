@@ -1,11 +1,11 @@
 import Head from 'next/head'
 
 
-import Nav from '../../components/en/products/nav'
-import Heroes from '../../components/en/products/heroes'
-import Feature from '../../components/en/products/feature'
-import List from '../../components/en/products/list'
-import Footer from '../../components/en/footer'
+import Nav from '../../components/th/products/nav'
+import Heroes from '../../components/th/products/heroes'
+import Feature from '../../components/th/products/feature'
+import List from '../../components/th/products/list'
+import Footer from '../../components/th/footer'
 
 
 export default function Home() {
