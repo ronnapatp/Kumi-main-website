@@ -23,7 +23,7 @@ export default function Heroes() {
     <div className="col-lg-6 mx-auto">
       <p className="lead mb-4">คุมิ ยาทาลดอาการคัน จากแมลงสัตว์กัดต่อย ลดบวมแดง และรอยดำ หยุดคันได้ทันทีหลังทา</p>
       <div className="d-grid gap-2 d-sm-flex justify-content-sm-center mb-5">
-        <Link href="/en/shop"><button type="button" className="btn pink btn-lg px-4 me-sm-3 btn-light">ช้อปเลย!</button></Link>
+        <Link href="/th/shop"><button type="button" className="btn pink btn-lg px-4 me-sm-3 btn-light">ช้อปเลย!</button></Link>
         <Link href="#product"><button type="button" className="btn border-pink btn-light btn-lg px-4">เรียนรู้เพิ่มเติม</button></Link>
       </div>
     </div>
