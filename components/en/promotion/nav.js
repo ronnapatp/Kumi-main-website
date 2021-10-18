@@ -21,13 +21,13 @@ export default function Nav() {
       </ul>
 
       <div className="col-md-3 text-end">
-      <Link href="/th/">
+      <Link href="/th/promotion">
                 <a className="text-decoration-none link-dark">
                     ภาษาไทย
                 </a>
             </Link>
             {' / '}
-            <Link href="/">
+            <Link href="/en/promotion">
                 <a className="text-decoration-none link-secondary">
                     English
                 </a>
