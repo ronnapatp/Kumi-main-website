@@ -26,7 +26,7 @@ export default function Error () {
                 </span>
               <h1 className="display-5 fw-bold">404 - ไม่พบหน้านี้</h1>
               <div className="col-lg-6 mx-auto">
-                <p>For English please sroll up</p>
+                <p>For English please scroll up</p>
                 <p className="lead mb-4">Kumi เว็บไซต์ไม่พบหน้านี้สําหรับคุณ! แต่ไม่ต้องกังวลคุณสามารถกลับไปที่หน้าแรกได้โดยคลิกปุ่มด้านล่าง</p>
                 <div className="d-grid gap-2 d-sm-flex justify-content-sm-center">
                     <Link href="/th/">
