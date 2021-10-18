@@ -1,10 +1,25 @@
-@import url('https://fonts.googleapis.com/css2?family=Mitr:wght@300&display=swap');
+/*@font-face {
+  font-family: "Mitr";
+  src: url("../public/fonts/mitr/Mitr-Regular.ttf");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Mitr";
+  src: url("../public/fonts/mitr/Mitr-Medium.ttf");
+  font-style: medium;
+  font-weight: 500;
+  font-display: swap;
+}*/
+
+
 html,
 body {
   padding: 0;
   margin: 0;
-  font-family: 'Mitr', sans-serif;
   color: #2D1B44;
+  font-family: 'Mitr', sans-serif;
 }
 
 a {
