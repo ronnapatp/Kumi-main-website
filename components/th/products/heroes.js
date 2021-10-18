@@ -24,11 +24,11 @@ export default function Nav() {
   </span>
   </div>
   <div className="col-lg-6">
-    <h1 className="display-5 fw-bold lh-1 mb-3">OUR PRODUCT</h1>
-    <p className="lead">Take a look online! </p>
+    <h1 className="display-5 fw-bold lh-1 mb-3">สินค้าของเรา</h1>
+    <p className="lead">ดูผ่านช่องทางออนไลน์!</p>
     <div className="d-grid gap-2 d-md-flex justify-content-md-start">
-      <Link href="#"><a><button type="button" className="btn pink btn-lg px-4 me-sm-3 btn-light">Buy now</button></a></Link>
-      <Link href="#"><a><button type="button" className="btn btn-outline-secondary btn-lg px-4">Learn more</button></a></Link>
+      <Link href="/th/shop"><a><button type="button" className="btn pink btn-lg px-4 me-sm-3 btn-light">ซื้อเลย</button></a></Link>
+      <Link href="#learnmore"><a><button type="button" className="btn btn-outline-secondary btn-lg px-4">เรียนรู้เพิ่มเติม</button></a></Link>
     </div>
   </div>
 </div>

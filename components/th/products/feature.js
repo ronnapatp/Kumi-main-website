@@ -4,6 +4,7 @@ import Image from 'next/image';
 
 export default function Nav() {
   return (
+    <div id="learnmore">
     <div className="container px-4 py-5" id="hanging-icons">
     <h2 className="pb-2 border-bottom"></h2>
     <div className="row g-4 py-5 row-cols-1 row-cols-lg-3">
@@ -50,6 +51,7 @@ export default function Nav() {
         </div>
       </div>
     </div>
+  </div>
   </div>
   );
 }
