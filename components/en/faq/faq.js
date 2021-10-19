@@ -15,7 +15,7 @@ export default function Faq(){
         <a className="text-dark text-decoration-none">
       <div className="col d-flex align-items-start">
         <div>
-          <h4 className="fw-bold mb-0">General <i class="bi bi-chat-left-dots"></i></h4>
+          <h4 className="fw-bold mb-0">General <i className="bi bi-chat-left-dots"></i></h4>
         </div>
       </div>
       </a>
@@ -33,7 +33,7 @@ export default function Faq(){
         <a className="text-dark text-decoration-none">
       <div className="col d-flex align-items-start">
         <div>
-          <h4 className="fw-bold mb-0">Payment <i class="bi bi-coin"></i>  </h4>
+          <h4 className="fw-bold mb-0">Payment <i className="bi bi-coin"></i>  </h4>
         </div>
       </div>
       </a>
@@ -42,7 +42,7 @@ export default function Faq(){
         <a className="text-dark text-decoration-none">
       <div className="col d-flex align-items-start">
         <div>
-          <h4 className="fw-bold mb-0">Shipping <i class="bi bi-truck"></i>   </h4>
+          <h4 className="fw-bold mb-0">Shipping <i className="bi bi-truck"></i>   </h4>
         </div>
       </div>
       </a>
@@ -51,7 +51,7 @@ export default function Faq(){
         <a className="text-dark text-decoration-none">
       <div className="col d-flex align-items-start">
         <div>
-          <h4 className="fw-bold mb-0">Privacy <i class="bi bi-lock"></i></h4>
+          <h4 className="fw-bold mb-0">Privacy <i className="bi bi-lock"></i></h4>
         </div>
       </div>
       </a>
@@ -60,7 +60,7 @@ export default function Faq(){
         <a className="text-dark text-decoration-none">
       <div className="col d-flex align-items-start">
         <div>
-          <h4 className="fw-bold mb-0">Terms <i class="bi bi-people-fill"></i></h4>
+          <h4 className="fw-bold mb-0">Terms <i className="bi bi-people-fill"></i></h4>
         </div>
       </div>
       </a>
@@ -69,7 +69,7 @@ export default function Faq(){
         <a className="text-dark text-decoration-none">
       <div className="col d-flex align-items-start">
         <div>
-          <h4 className="fw-bold mb-0">Buy our product <i class="bi bi-bag"></i></h4>
+          <h4 className="fw-bold mb-0">Buy our product <i className="bi bi-bag"></i></h4>
         </div>
       </div>
       </a>
@@ -78,7 +78,7 @@ export default function Faq(){
         <a className="text-dark text-decoration-none">
       <div className="col d-flex align-items-start">
         <div>
-          <h4 className="fw-bold mb-0">Languages <i class="bi bi-translate"></i></h4>
+          <h4 className="fw-bold mb-0">Languages <i className="bi bi-translate"></i></h4>
         </div>
       </div>
       </a>
