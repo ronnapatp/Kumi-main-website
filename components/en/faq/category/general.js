@@ -1,4 +1,4 @@
-import Link from 'next/lin'
+import Link from 'next/link'
 
 export default function General() {
     return(
