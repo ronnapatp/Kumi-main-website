@@ -11,58 +11,78 @@ export default function Faq(){
 
               <div className="container px-4 py-5" id="icon-grid">
     <div className="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4 py-5">
+    <Link href="/">
+        <a className="text-dark text-decoration-none">
+      <div className="col d-flex align-items-start">
+        <div>
+          <h4 className="fw-bold mb-0">General <i class="bi bi-chat-left-dots"></i></h4>
+        </div>
+      </div>
+      </a>
+      </Link>
         <Link href="/">
         <a className="text-dark text-decoration-none">
       <div className="col d-flex align-items-start">
         <div>
           <h4 className="fw-bold mb-0">Product <i className="bi bi-cart"></i>   </h4>
-          <p>Paragraph of text beneath the heading to explain the heading.</p>
         </div>
       </div>
       </a>
       </Link>
+      <Link href="/">
+        <a className="text-dark text-decoration-none">
       <div className="col d-flex align-items-start">
         <div>
-          <h4 className="fw-bold mb-0">Featured title</h4>
-          <p>Paragraph of text beneath the heading to explain the heading.</p>
+          <h4 className="fw-bold mb-0">Payment <i class="bi bi-coin"></i>  </h4>
         </div>
       </div>
+      </a>
+      </Link>
+      <Link href="/">
+        <a className="text-dark text-decoration-none">
       <div className="col d-flex align-items-start">
         <div>
-          <h4 className="fw-bold mb-0">Featured title</h4>
-          <p>Paragraph of text beneath the heading to explain the heading.</p>
+          <h4 className="fw-bold mb-0">Shipping <i class="bi bi-truck"></i>   </h4>
         </div>
       </div>
+      </a>
+      </Link>        
+      <Link href="/">
+        <a className="text-dark text-decoration-none">
       <div className="col d-flex align-items-start">
         <div>
-          <h4 className="fw-bold mb-0">Featured title</h4>
-          <p>Paragraph of text beneath the heading to explain the heading.</p>
+          <h4 className="fw-bold mb-0">Privacy <i class="bi bi-lock"></i></h4>
         </div>
       </div>
+      </a>
+      </Link>
+      <Link href="/">
+        <a className="text-dark text-decoration-none">
       <div className="col d-flex align-items-start">
         <div>
-          <h4 className="fw-bold mb-0">Featured title</h4>
-          <p>Paragraph of text beneath the heading to explain the heading.</p>
+          <h4 className="fw-bold mb-0">Terms <i class="bi bi-people-fill"></i></h4>
         </div>
       </div>
+      </a>
+      </Link>
+      <Link href="/">
+        <a className="text-dark text-decoration-none">
       <div className="col d-flex align-items-start">
         <div>
-          <h4 className="fw-bold mb-0">Featured title</h4>
-          <p>Paragraph of text beneath the heading to explain the heading.</p>
+          <h4 className="fw-bold mb-0">Buy our product <i class="bi bi-bag"></i></h4>
         </div>
       </div>
+      </a>
+      </Link>
+      <Link href="/">
+        <a className="text-dark text-decoration-none">
       <div className="col d-flex align-items-start">
         <div>
-          <h4 className="fw-bold mb-0">Featured title</h4>
-          <p>Paragraph of text beneath the heading to explain the heading.</p>
+          <h4 className="fw-bold mb-0">Languages <i class="bi bi-translate"></i></h4>
         </div>
       </div>
-      <div className="col d-flex align-items-start">
-        <div>
-          <h4 className="fw-bold mb-0">Featured title</h4>
-          <p>Paragraph of text beneath the heading to explain the heading.</p>
-        </div>
-      </div>
+      </a>
+      </Link>
     </div>
   </div>
         </div>
