@@ -1,29 +1,29 @@
-import Link from 'next/link'
+import Link from 'next/lin'
 
 export default function General() {
     return(
         <div id="general">
 <section>
-  <h1 class="text-center mb-4 pb-2 text-dark fw-bold">General questions</h1>
+  <h1 className="text-center mb-4 pb-2 text-dark fw-bold">General questions</h1>
 
 
-  <div class="row">
-    <div class="col-md-6 col-lg-4 mb-4">
-      <h6 class="mb-3 text-dark fw-bolder fs-5">What is kumi?</h6>
+  <div className="row">
+    <div className="col-md-6 col-lg-4 mb-4">
+      <h6 className="mb-3 text-dark fw-bolder fs-5">What is kumi?</h6>
       <p>
         Kumi is a bla bla bla bla bla bla bla bla blab lba lab alb alba blalbal balbla bla blablabl
       </p>
     </div>
 
-    <div class="col-md-6 col-lg-4 mb-4">
-      <h6 class="mb-3 text-dark fw-bolder fs-5">Who is the founder of kumi?</h6>
+    <div className="col-md-6 col-lg-4 mb-4">
+      <h6 className="mb-3 text-dark fw-bolder fs-5">Who is the founder of kumi?</h6>
       <p>
         You can see founder and history of Kumi the chubby bear at <Link href="/en/about"><a className="text-dark">About us</a></Link> page.
       </p>
     </div>
 
-    <div class="col-md-6 col-lg-4 mb-4">
-      <h6 class="mb-3 text-dark fw-bolder fs-5"><i class="fas fa-user text-dark fw-bolder fs-5 pe-2"></i> A simple
+    <div className="col-md-6 col-lg-4 mb-4">
+      <h6 className="mb-3 text-dark fw-bolder fs-5"><i className="fas fa-user text-dark fw-bolder fs-5 pe-2"></i> A simple
         question?
       </h6>
       <p>
@@ -32,8 +32,8 @@ export default function General() {
       </p>
     </div>
 
-    <div class="col-md-6 col-lg-4 mb-4">
-      <h6 class="mb-3 text-dark fw-bolder fs-5"><i class="fas fa-rocket text-dark fw-bolder fs-5 pe-2"></i> A simple
+    <div className="col-md-6 col-lg-4 mb-4">
+      <h6 className="mb-3 text-dark fw-bolder fs-5"><i className="fas fa-rocket text-dark fw-bolder fs-5 pe-2"></i> A simple
         question?
       </h6>
       <p>
@@ -41,8 +41,8 @@ export default function General() {
       </p>
     </div>
 
-    <div class="col-md-6 col-lg-4 mb-4">
-      <h6 class="mb-3 text-dark fw-bolder fs-5">A simple
+    <div className="col-md-6 col-lg-4 mb-4">
+      <h6 className="mb-3 text-dark fw-bolder fs-5">A simple
         question?
       </h6>
       <p><strong><u>Unfortunately no</u>.</strong> We do not issue full or partial refunds for any
