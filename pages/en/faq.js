@@ -2,7 +2,7 @@ import Head from 'next/head'
 
 
 import Nav from '../../components/en/faq/nav'
-
+import Faq from '../../components/en/faq/faq'
 
 import Footer from '../../components/en/footer'
 
@@ -24,6 +24,8 @@ export default function Home() {
       </Head>
 
     <Nav />
+
+    <Faq />
       
 
     <Footer />
