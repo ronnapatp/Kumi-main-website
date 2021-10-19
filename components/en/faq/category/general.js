@@ -49,8 +49,8 @@ export default function General() {
         reason.</p>
     </div>
 
-    <div class="col-md-6 col-lg-4 mb-4">
-      <h6 class="mb-3 text-dark fw-bolder fs-5">Another
+    <div className="col-md-6 col-lg-4 mb-4">
+      <h6 className="mb-3 text-dark fw-bolder fs-5">Another
         question that is longer than usual</h6>
       <p>
         Of course! We’re happy to offer a free plan to anyone who wants to try our service.
